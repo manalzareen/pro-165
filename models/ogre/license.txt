@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shrek 3D Model From The Third Game
+* source:	https://sketchfab.com/3d-models/shrek-3d-model-from-the-third-game-f7a67c4831084ae99fc5b2c5886d971d
+* author:	seifashmawi (https://sketchfab.com/seifashmawi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shrek 3D Model From The Third Game" (https://sketchfab.com/3d-models/shrek-3d-model-from-the-third-game-f7a67c4831084ae99fc5b2c5886d971d) by seifashmawi (https://sketchfab.com/seifashmawi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
